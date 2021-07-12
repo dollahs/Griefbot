@@ -5,14 +5,14 @@ from datetime import datetime
 
 #configuration
 token = "token here"
-authorized = [782562792421982238]
+authorized = [your id here]
 announce_channel = "nuked"
 chat_channel = "general"
 vc_channel = "vc"
 
 embed_1_title = "title"
 embed_1_body = "body"
-embed_1_image = "https://cdn.discordapp.com/attachments/863496175743533059/863516470142959706/unknown.png" 
+embed_1_image = "image link here" 
 
 embed_2_title = "embed2title"
 embed_2_body = "embed2body"
