@@ -17,7 +17,7 @@ The bot is customizable, make sure to pay attention to every single thing you en
 3. **Embeds:** After creating the channels, the bot sends 2 messages, here you can elaborate why you nuked the server or just have some fun.
 4. **server name and icon:** The bot also changes the server icon and name. Make sure you put an image with the name 'image0.png' in the directory where the bot is ran from.
 5. **ban reason and sleep time:** There is a time between nuking and banning everyone, put this interval in seconds in the sleep_time variable. the ban_reason variable contains the reasoning the bot uses for banning people.
-6. **Finalize:** Try the bot out in a private server to make sure everything works. Invite the bot into the server you want to grief ([how to invite your bot?](https://hatebin.com/baofvavspl)), there are 2 commands, **nuke**, this command nukes the whole server, creates the new channels etc. Perfect if you want to create a commotion. **banall**, this command silently bans everyone, perfect if you want to pull a sneaky on em.
+6. **Finalize:** Try the bot out in a private server to make sure everything works. Invite the bot into the server you want to grief ([how to invite your bot?](https://hatebin.com/baofvavspl)), there are 2 commands, **nuke**, this command nukes the whole server, creates the new channels etc. Perfect if you want to create a commotion. **banall**, this command silently bans everyone, perfect if you don't want people to notice. Before running the commands obviously open the configured python file on your computer.
 
 ## Disclaimer
 This bot is only made to have fun with friends or experiment. Not to cause harm to other people.
